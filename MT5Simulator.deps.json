@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "MT5Decompiler/1.0.0": {
+      "MT5Simulator/1.0.0": {
         "dependencies": {
           "MQL4CSharp": "1.0.5887.32522",
           "MetaTrader.Common": "1.1.0.9",
@@ -17,7 +17,7 @@
           "MetaQuotes.MT5ManagerAPI": "5.2715.0.0"
         },
         "runtime": {
-          "MT5Decompiler.dll": {}
+          "MT5Simulator.dll": {}
         }
       },
       "GrapevinePlus/3.0.4": {
@@ -159,7 +159,7 @@
     }
   },
   "libraries": {
-    "MT5Decompiler/1.0.0": {
+    "MT5Simulator/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
